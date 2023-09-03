@@ -1,0 +1,12 @@
+/* Write your code here. */
+.container {
+  text-align: center;
+  background-color: #0f172a;
+  color: #f8fafc;
+  padding: 100px;
+  font-family: "roboto";
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
